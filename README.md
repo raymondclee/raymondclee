@@ -1,5 +1,5 @@
 -  Hi, I’m Raymond!
--  
+  
 -  I’m currently learning tools to use in the world of analytics. I have industry experience in SQL, Excel, and Tableau.
 -  I’m looking to collaborate on any projects which use analytics for good. I've volunteered for local foundations to help them understand how to define their problems and understand their data.
 -  How to reach me: Please reach out to me here or inquire for more details.
